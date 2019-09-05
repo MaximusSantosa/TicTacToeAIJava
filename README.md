@@ -16,4 +16,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to Jet for helping me understand the concepts of inversion and rotational invariance
+* Thank you to Jet for helping me understand the concepts of inversion and rotational invariance
