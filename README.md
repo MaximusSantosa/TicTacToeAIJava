@@ -1,52 +1,14 @@
 # Tic Tac Toe AI Project
 
-This project is about AI working to solve Tic Tac Toe game
-
-## Getting Started
-
-None
-
-### Prerequisites
-
-None
-
-### Installing
-
-None
-
-## Running the tests
-
-None
-
-### Break down into end to end tests
-
-None
-
-### And coding style tests
-
-None
-
-## Deployment
-
-None
+This project is about an Artificial Intelligence employing Q-Learning to play the game of Tic Tac Toe
 
 ## Built With
 
 * Java
 
-## Contributing
-
-none
-
-## Versioning
-
-None
-
 ## Authors
 
 * **Maximus Santosa** - *Initial work* - 
-
-
 
 ## License
 
@@ -54,5 +16,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to Jed for helping me understand the concept
-
+* Thanks to Jet for helping me understand the concepts of inversion and rotational invariance
