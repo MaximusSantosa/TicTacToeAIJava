@@ -1,4 +1,4 @@
-# Project Title
+# Tic Tac Toe AI Project
 
 This project is about AI working to solve Tic Tac Toe game
 
